@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E6295B</color>
+    <color name="colorPrimaryDark">#D61B50</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="cobaltblue">#357EC7</color>
+    <color name="red">#F15050</color>
+    <color name="red_dark">#d43c3c</color>
+    <color name="yellow_dark">#d4bb46</color>
+    <color name="yellow">#EED45A</color>
+    <color name="lime">#8CE24A</color>
+    <color name="lime_dark">#9dbf35</color>
+    <color name="green">#48D26B</color>
+    <color name="green_dark">#36b957</color>
+    <color name="blue">#48DFE1</color>
+    <color name="opaque_orange">#FF8800</color>
+    <color name="translucent_orange">#80FF8800</color>
+    <color name="text_color">#0099CC</color>
+    <color name="background_color">#F0FF00</color>
+    <color name="blue_dark">#37c4c6</color>
+    <color name="darkblue">#5A9CEE</color>
+    <color name="darkblue_dark">#417eca</color>
+    <color name="darkvoilet">#7E50F1</color>
+    <color name="darkvoilet_dark">#683dd4</color>
+    <color name="voilet">#D65AEE</color>
+    <color name="voilet_dark">#b33ec9</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="aqua">#00ffff</color>
+    <color name="tabtextcolor">#fff</color>
+    <color name="tabindicatorcolor">#2d2d2d</color>
+
+
+</resources>
